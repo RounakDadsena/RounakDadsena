@@ -1,5 +1,5 @@
 \# 💫 About Me:
-🔭 I’m currently working on Music app<br>🌱 I’m currently learning world
+🔭 I’m currently working on Music app<br>🌱 I’m currently understanding world
 
 
 # 💻 Tech Stack:
